@@ -1,0 +1,42 @@
+body {
+    background-image: cover;
+    background-image: url('https://practice-pixels.s3.amazonaws.com/texture-paper.jpg');
+
+}
+
+#wrapper {
+    width:600px;
+    margin:auto; /* Centers the div on the page */
+    border:1px solid tan;
+    padding:25px;
+}
+
+#author-image {
+    border-radius: 15%;
+}
+
+.italic {
+    font-style: italic;
+}
+
+h1 {
+    color: #076164;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h2 {
+    color: #09afb6;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+p {
+    line-height: 1.5rem;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+ul li {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.primary {
+    font-weight: bold;
+}
