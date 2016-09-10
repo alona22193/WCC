@@ -1,0 +1,62 @@
+
+body {
+    background-image: url(http://practice-pixels.s3.amazonaws.com/texture-blue.jpg);
+}
+#container {
+    background-color: white;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 1%;
+}
+
+.art {
+    background-color: #EEEEEE;
+    margin: 20px auto 20px auto;
+    width: 80%;
+    padding: 10px;
+    border-radius: 1%;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    color: red;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.top-section {
+    text-align: center;
+    font-size: .95em;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+h2 a {
+    color: black;
+}
+
+h4,h3 {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+}
+
+h4 {
+    font-style: italic;
+    font-size: .85em;
+}
+
+p a {
+    color: red;
+}
+
+#end {
+    margin: 0 auto 20px auto;
+    width: 80%;
+
+}
