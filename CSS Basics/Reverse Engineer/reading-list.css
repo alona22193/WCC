@@ -37,8 +37,20 @@ h1 {
     margin: 0;
 }
 
-h2 a {
+h2 a:link {
     color: black;
+}
+
+h2 a:visited {
+    color: black;
+}
+
+h2 a:hover {
+    color: gold;
+}
+
+h2 a:active {
+    color: red;
 }
 
 h4,h3 {
@@ -51,10 +63,17 @@ h4 {
     font-size: .85em;
 }
 
-p a {
+p a:link {
     color: red;
 }
 
+p a:visited {
+    color: red;
+}
+
+p a:hover, p a:active {
+    color: gold;
+}
 #end {
     margin: 0 auto 20px auto;
     width: 80%;
