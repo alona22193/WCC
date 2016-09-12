@@ -1,0 +1,29 @@
+
+
+th {
+    color: blue;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    background-color: #e6e8e7;
+}
+
+a {
+    a:link: blue;
+}
+
+a {
+    a:visited: purple;
+}
+
+a {
+    a:hover: #d6ba88;
+}
+
+a {
+    a:active: red;
+}
